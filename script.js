@@ -9,11 +9,9 @@
   var f = $('#floating');
    function rrunIt() {
       h.animate({top:'+=20'}, 1000);
-      h.animate({top:'-=20'}, 1000, runIt);
+      h.animate({top:'-=20'}, 1000, rrunIt);
       f.animate({width:'+=10', left:'-=5'}, 1000);
-      f.animate({width:'-=10', left:'+=5'}, 1000, rrunIt);
-     
-       
+      f.animate({width:'-=10', left:'+=5'}, 1000, rrunIt);  
    }
 
    rrunIt();
