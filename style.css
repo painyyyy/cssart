@@ -645,11 +645,11 @@ body {
 
 #canvas3 {
   display:inline-block;
-  width:180px;
+  width:170px;
   height:250px;
   position:relative;
   z-index:1;
-  margin-left:40px;
+  margin-left:30px;
   
 }
 
