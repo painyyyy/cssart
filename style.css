@@ -645,7 +645,7 @@ body {
 
 #canvas3 {
   display:inline-block;
-  width:200px;
+  width:220px;
   height:250px;
   position:relative;
   z-index:1;
@@ -660,6 +660,7 @@ body {
   border-radius: 80px;   
   position:absolute;
   z-index:1;
+  
 }
 #painyeye1 {
   background: #eee;
