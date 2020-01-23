@@ -15,11 +15,11 @@ body {
   z-index:11;
 }
 
-#canvas {width:300px;height:300px;
-  width:;220px;height:;250px;
+#canvas {
+  width:220px;height:250px;
   background:transparent;
-  margin:0 auto;display:inline-block;
-  position:relative;
+  display:inline-block;
+  position:absolute;
   padding-left:20px;
 }
 
@@ -217,7 +217,7 @@ body {
 #canvas2 {
   width:220px;height:250px;
   background:transparent;
-  margin:0 auto;display:inline-block;
+  display:inline-block;
   position:absolute;
   padding-left:20px;
 }
@@ -656,7 +656,7 @@ body {
   display:inline-block;
   width:200px;
   height:250px;
-  position:relative;
+  position:absolute;
   z-index:1;
   
 }
