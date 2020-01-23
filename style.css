@@ -3,7 +3,14 @@ body {
   color: black;
   height: 100%;
   width: 100%;
+}
+
+#post {
+  width:220px;height:250px;
+  background:transparent;
   margin:0 auto;
+  display:inline-block;
+  position:relative;
 }
 
 #canvas {
