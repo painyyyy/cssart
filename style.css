@@ -15,8 +15,8 @@ body {
   z-index:11;
 }
 
-#canvas {
-  width:220px;height:250px;
+#canvas {width:300px;height:300px;
+  width:;220px;height:;250px;
   background:transparent;
   margin:0 auto;display:inline-block;
   position:relative;
@@ -218,7 +218,7 @@ body {
   width:220px;height:250px;
   background:transparent;
   margin:0 auto;display:inline-block;
-  position:relative;
+  position:absolute;
   padding-left:20px;
 }
 
